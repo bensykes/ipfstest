@@ -1,0 +1,201 @@
+<!--Better JobBoard.io Employer Profiles -->
+<!--Created & written by @420JOBSBOARD.COM - 2019-->
+
+
+
+<!--####### Header / Announcement Bar - Start #######-->
+<!--<table border="1" width="100%">
+        <tr>
+          <td style="padding:5px; max-width:100%; background-color:white" align="center"><img src="">Stuff</td>
+          <td style="padding:5px; max-width:100%; background-color:white" align="center"><img src="">Stuff</td>
+          <td style="padding:5px; max-width:100%; background-color:white" align="center"><img src="">Stuff</td>
+          <td style="padding:5px; max-width:100%; background-color:white" align="center"><img src="">Stuff</td>
+          <td style="padding:5px; max-width:100%; background-color:white" align="center">stuff</td>
+        </tr>
+</table>
+  <table width="100%" border="1px">
+    <tr>
+      <td style="padding:5px; background-color:white"></td>
+    </tr>
+</table>-->
+<!--####### Header / Announcement Bar - End #######--> 
+
+<!--#######################################################################-->
+
+<!--####### Body Container - Left Column #######-->
+<table border="1" width="100%">
+  <tr style="vertical-align:top">
+    <td style="padding:10px">
+      
+<!--######################### Overview Table - Start ############################--> 
+      
+<table width="100%" height="100%" border="1px">
+  
+<!--### Accent Row - Start ###-->
+  <tr>
+    <td style="padding:1px; background-color:#004D47"></td>
+    </tr>
+<!--### Accent Row - End ###-->
+  
+<!--### Overview Header Row - Start ###-->
+    <tr>
+      <td style="background-color:#ECF0F0; padding:10px"><h5 style="margin:0">OVERVIEW</h5></td>
+    </tr>
+<!--### Overview Header Row - End ###-->
+  
+<!--### Overview Body - Start ###-->
+  <tr style="vertical-align:top">
+  <td style="background-color:white; padding:10px; height:750px">
+      <p>
+Our patented process ensures our CBD is naturally produced—with no C02 and no chemicals. We’ve created a process that even mother nature herself would give a thumbs up.<br><br>
+ We're completely vertically integrated, ensuring each step lives up to our strict standards, from the moment the seed goes into the dirt until it comes to you. Starting with our Farmer’s Co-Op, a regarded collective of growers in Oregon, we work to cultivate our hemp from seed to facility.
+
+Our farm is only minutes from our facility to ensure maximum freshness of our product. It’s not stored, there’s less transfer of hands, and fewer contaminants.
+      </p>
+    <br>
+<table width="100%" border="1px">
+  <tr>
+    <td><b>THE FARM</b></td>
+    <td><b>THE FACILITY</b></td>
+  </tr>
+  <tr>
+    <td>Vero has 70 acres of farm in Oregon growing 2 high-yield, Farm Bill compliant strains with an average of 15% CBD. VERO is growing over 140,000 lbs of the finest hemp in organically certified soil, using organic best practices.</td>
+    <td>Vero hemp arrives fresh to the facility where we immediately use our CO2-Free, Chemical-Free processes to reduce the entire plant into a beautiful, wholesome, Entourage Effect powder.</td>
+  </tr>
+    </table>
+    </td>
+  </tr>
+<!--### Overview Body - End ###-->
+      </table>
+<!--######################### Overview Table - End ############################--> 
+      
+<!--###########################################################################-->      
+      
+<!--####### Body Container - Right Column #######-->
+    <td style="padding:10px" align="center">
+      
+      
+<!--######################### Sections Table - Start ############################--> 
+<table border="1px" width="100%">
+<!--### Accent Row - Start ###-->  
+  <tr>
+    <td style="padding:1px; background-color:#004D47"></td>
+    </tr>
+<!--### Accent Row - End ###-->
+
+  
+<!--### Overview Header Row - Start ###-->
+    <tr>
+      <td style="background-color:#ECF0F0; padding:10px"><h5 style="margin:0">SOCIAL</h5></td>
+    </tr>
+<!--### Overview Header Row - End ###-->
+
+  
+<!--### Social Body - Start ###-->
+  <tr>
+         <td style="padding:10px; background-color:white" align="center">
+           
+<!--### Social Icons Table - Start ###-->
+<table border="1" width="100%">
+<!--### Website Icon - Start ###-->
+        <tr>
+          <td style="padding:5px; max-width:100%; background-color:white" align="center">
+            <a href="https://www.veronaturals.com" target="_blank">
+              <img src="https://i.imgur.com/FS2JhF8.png" alt="Vero Naturals"></a></td>
+<!--### Website Icon - End ###-->
+          
+<!--### Insta Icon - Start ###-->          
+          <td style="padding:5px; max-width:100%; background-color:white" align="center">
+            <a href="https://www.instagram.com/poweredbyvero" target="_blank">
+            <img src="https://i.imgur.com/4CSYcHC.png" alt="Instagram"></td>
+<!--### Insta Icon - End ###-->
+ 
+ 
+<!--### Twitter Icon - Start ###-->            
+          <td style="padding:5px; max-width:100%; background-color:white" align="center">
+            <a href="https://twitter.com/VeroNaturals" target="_blank">
+            <img src="https://i.imgur.com/HgFH1ku.png" alt="Twitter"></td>
+<!--### Twitter Icon - End ###-->
+
+<!--### Linkedin Icon - Start ###-->
+          <td style="padding:5px; max-width:100%; background-color:white" align="center">
+            <a href="https://www.linkedin.com/company/vero-naturals" target="_blank">
+            <img src="https://i.imgur.com/6QDWu9E.png" alt="LinkedIn"></td>
+<!--### Linkedin Icon - End ###-->
+            
+        </tr>
+</table>
+    </td>
+       </tr>
+<!--### Social Body - End ###-->
+  
+  
+<!--### White Spacer - Start ###-->  
+  <tr><td style="padding:10px; background-color:white"></td></tr>
+<!--### White Spacer - End ###-->
+  
+  
+<!--### Accent Row - Start ###-->  
+  <tr>
+    <td style="padding:1px; background-color:#004D47"></td>
+    </tr>
+<!--### Accent Row - End ###-->
+  
+  
+<!--### Overview Header Row - Start ###-->
+    <tr>
+      <td style="background-color:#ECF0F0; padding:10px"><h5 style="margin:0">SNAPSHOT</h5></td>
+    </tr>
+<!--### Overview Header Row - End ###-->
+  
+  
+         <tr>
+         <td style="padding:10px; background-color:white" align="center">
+           <a href="https://www.veronaturals.com/" target="_blank"><img src="https://i.imgur.com/ZlLFrVG.png"></a>
+           </td>
+       </tr>
+    <tr><td style="padding:10px; background-color:white"></td></tr>
+  
+  
+ <!--### Accent Row - Start ###-->  
+  <tr>
+    <td style="padding:1px; background-color:#004D47"></td>
+    </tr>
+<!--### Accent Row - End ###-->
+  
+  
+    <tr>
+      <td style="background-color:#ECF0F0; padding:10px"><h5 style="margin:0">MAP</h5></td>
+    </tr>
+           <tr>
+         <td style="padding:10px; background-color:white" align="center">
+           <a href="https://goo.gl/maps/2xegMSsZixByyQi97" target="_blank"><img src="https://i.imgur.com/V4LItJl.png" style="max-width:100%;"></a></td>
+       </tr>
+
+  
+       </tr>
+      </table>
+  </tr>
+</table>
+
+<!--######################### Sections Table - End ############################--> 
+
+<!--###########################################################################-->
+
+<!-- Footer Bar Start--> 
+  <!--<table width="100%" border="1px">
+    <tr>
+      <td style="padding:5px; background-color:white"></td>
+    </tr>
+</table>
+<table border="1" width="100%">
+        <tr>
+          <td style="padding:5px; max-width:100%; background-color:white" align="center"><img src="">Stuff</td>
+          <td style="padding:5px; max-width:100%; background-color:white" align="center"><img src="">Stuff</td>
+          <td style="padding:5px; max-width:100%; background-color:white" align="center"><img src="">Stuff</td>
+          <td style="padding:5px; max-width:100%; background-color:white" align="center"><img src="">Stuff</td>
+          <td style="padding:5px; max-width:100%; background-color:white" align="center">stuff</td>
+        </tr>
+</table>-->
+
+<!-- Footer Bar End--> 
